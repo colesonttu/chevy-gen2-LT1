@@ -1,6 +1,10 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Chevy Gen 2 LT1 Knowledge Base
 ---
+## Description
+
+This is a knowledge base concerning the Chevrolet LT-1 (Generation 2) engine, related components and accessories.
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
