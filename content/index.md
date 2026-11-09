@@ -5,6 +5,15 @@ title: Chevy Gen 2 LT1 Knowledge Base
 
 This is a knowledge base concerning the Chevrolet LT-1 (Generation 2) engine, related components and accessories.
 
+## Main Categories
+
+- [[Engine Block|Engine Block]]
+- [[Rotating Assembly|Rotating Assembly]]
+- [[Heads|Heads]]
+- [[Valvetrain|Valvetrain]]
+- [[Air and Fuel|Air and Fuel]]
+- [[Ignition and Electronics|Ignition and Electronics]]
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
